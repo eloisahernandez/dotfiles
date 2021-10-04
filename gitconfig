@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eloisa.hdez.r@gmail.com
+	name = Eloisa Hernandez
